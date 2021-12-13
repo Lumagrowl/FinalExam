@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="string_ic1">string/ic1</string>
+    <string name="ic2" />
+    <string name="fried_rise">Fried Rise</string>
+    <string name="description">Description</string>
+    <string name="our_fried_rice_is_made_from_the_finest_ingredients_and_veggies_single_dish_is_made_with_fresh_vegetables_rescued">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="ic3" />
+    <string name="ic1" />
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
